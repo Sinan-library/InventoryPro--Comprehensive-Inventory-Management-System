@@ -75,5 +75,5 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ------------------------------------------------------
 
-<br><br>
+<br>
 <p align="center"><strong>Developed with ❤️ by Sinan Bandi</strong></p>
